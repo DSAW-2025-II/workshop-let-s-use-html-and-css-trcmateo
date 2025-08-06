@@ -1,6 +1,9 @@
 Outfit Variable Font
 ====================
-
+Nombre completo: Mateo Ramirez Cabrera
+ID de la Universidad: 0000306005
+Usuario de Github: trcmateo
+url: https://dsaw-2025-ii.github.io/workshop-let-s-use-html-and-css-trcmateo/
 This download contains Outfit as both a variable font and static fonts.
 
 Outfit is a variable font with this axis:
